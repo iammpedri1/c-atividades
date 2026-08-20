@@ -1,4 +1,4 @@
-/1)
+//1)
 int senha = 1234;
 Console.WriteLine("Digite a senha: ");
 senha = int.Parse(Console.ReadLine());
